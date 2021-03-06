@@ -6,7 +6,7 @@ I like to build React and Node applications which help people learn and develop 
 
 Currently, I'm caught up in learning a few new technologies, such as Ruby (which I love) and TypeScript before building my next big project.
 
-I currently work as a Teaching Assistant at LearningFuze, but I am open to new opportunities.  
+I currently work as a Teaching Assistant at LearningFuze, and I am open to new opportunities.  
 
 You can see my LinkedIn here: https://www.linkedin.com/in/kevin-lenell/
 
