@@ -8,8 +8,9 @@ Currently, I'm caught up in learning a few new technologies, such as Ruby (which
 
 I currently work as a Teaching Assistant at LearningFuze, and I am open to new opportunities.  
 
-You can see my LinkedIn here: https://www.linkedin.com/in/kevin-lenell/
+You can see my LinkedIn here: [linkedin.com/in/kevin-lenell/](https://www.linkedin.com/in/kevin-lenell/)
 
+And here is my [Resume](https://drive.google.com/file/d/1RCvwsgABTuAqoyDN30_gFOxlVgBpcTA3/view?usp=sharing)
 
 <!--
 **krlenell/krlenell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
