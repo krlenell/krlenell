@@ -4,7 +4,7 @@ I'm Kevin Lenell, a storyteller and educator gone rogue to study programming and
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=krlenell&hide=stars&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-I like to build React and Node applications which help people learn and develop a more productive workflow.
+I like to build React and Node applications which help people learn and develop a more productive workflow. I've also recently fallen in love with Ruby, Rails and TDD, so I am working hard learn these technologies and integrate them with my React frontend experience.
 
 I currently work as a Teaching Assistant at LearningFuze, and I am open to new opportunities.  
 
