@@ -24,6 +24,8 @@ Currently, progress is a blocked. I recognized that I jumped into a personal pro
 
 I am currently working on building a small Discord bot to automate some events and channels in a small community discord.  This project is still in the planning phase, but the Repo is [here](https://github.com/krlenell/discord-list-event-bot), and will probably be updated before this description will.
 
+I have previous projects written in JavaScript, some of which are pinned.
+
 ## Other stuff
 
 I am writing a few articles which will be featured here when completed. Current topics regard a simple tutorial to immutability in JavaScript using simple ES5 and an article comparing linguistic theory to programming pedagogy.  
