@@ -6,7 +6,9 @@ I'm Kevin Lenell, a storyteller and educator gone rogue to study programming and
 
 ## About Me
 
-I like to build React and Node applications which help people learn and develop a more productive workflow. I've also recently fallen in love with Ruby, Rails and TDD, so I am working hard learn these technologies and integrate them with my React frontend experience.
+**Hey, this is a bit outdated since I started the working life, but you can read it to learn about where my head was at back in time. I'm hoping to update it soon, but currentlty have a few projects to build.**
+
+I like to build React and Node applications which help people learn and develop a more productive workflow. I've also recently fallen in love with Ruby and TDD, so I am working hard learn these technologies and integrate them with my React frontend experience.
 
 I currently work as a Teaching Assistant at LearningFuze, and I am open to new opportunities.  
 
